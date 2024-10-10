@@ -1,0 +1,109 @@
+{
+    "wallet_name": "MetaMask",
+    "platform": [
+        "iOS",
+        "Android",
+        "Browser"
+    ],
+    "date_evaluated": "2024-10-09",
+    "evaluated_by": "John Doe",
+    "score_breakdown": [
+        {
+            "criteria": "Onboarding Experience",
+            "descriptors": [
+                "Ease of setup: Is the wallet easy to install and configure?",
+                "Optimism network support: How intuitive is it to switch to or add Optimism?",
+                "Account recovery: Is backup and recovery of wallet straightforward and secure?",
+                "Clarity of instructions: Are instructions clear and concise for new users?"
+            ],
+            "weight": 0.1,
+            "score": null,
+            "comments": null
+        },
+        {
+            "criteria": "Transaction Flow",
+            "descriptors": [
+                "Transaction process: Is the process of sending/receiving assets smooth and logical?",
+                "Transaction confirmation: How clear and timely are transaction confirmations?",
+                "Gas fee transparency: Does the wallet provide a clear breakdown of gas fees?",
+                "Optimism-specific flow: Are Optimism transactions (e.g., sending tokens) clearly differentiated?"
+            ],
+            "weight": 0.2,
+            "score": null,
+            "comments": null
+        },
+        {
+            "criteria": "Optimism Integration",
+            "descriptors": [
+                "Network switching: How easy is it to switch between Ethereum mainnet and Optimism?",
+                "Optimism default: Does the wallet automatically suggest Optimism for compatible transactions?",
+                "DeFi compatibility: Does the wallet support Optimism DeFi protocols easily?"
+            ],
+            "weight": 0.15,
+            "score": null,
+            "comments": null
+        },
+        {
+            "criteria": "Security and Privacy",
+            "descriptors": [
+                "Security features: Are features like biometrics, 2FA, or other security mechanisms present?",
+                "Backup process: How clear and secure is the backup and recovery process?",
+                "Privacy control: Does the wallet provide sufficient privacy features for users?"
+            ],
+            "weight": 0.15,
+            "score": null,
+            "comments": null
+        },
+        {
+            "criteria": "UI Design",
+            "descriptors": [
+                "Visual appeal: Is the wallet visually appealing and modern?",
+                "Navigation ease: Is it easy to find and access different features?",
+                "Accessibility: Is the wallet accessible to users with disabilities (e.g., text size, contrast)?"
+            ],
+            "weight": 0.1,
+            "score": null,
+            "comments": null
+        },
+        {
+            "criteria": "Performance",
+            "descriptors": [
+                "Speed: How fast is the wallet during typical transactions (especially on Optimism)?",
+                "Reliability: How stable is the wallet when performing multiple transactions?"
+            ],
+            "weight": 0.1,
+            "score": null,
+            "comments": null
+        },
+        {
+            "criteria": "Support and Documentation",
+            "descriptors": [
+                "Help resources: Is there accessible documentation or in-app help for users?",
+                "Customer support: How responsive and effective is the support team?"
+            ],
+            "weight": 0.05,
+            "score": null,
+            "comments": null
+        },
+        {
+            "criteria": "Additional Features",
+            "descriptors": [
+                "DeFi, staking, NFTs: Does the wallet offer additional features for DeFi, staking, or NFTs?",
+                "Multichain support: Can users easily manage assets across different chains (e.g., L1 & L2)?"
+            ],
+            "weight": 0.05,
+            "score": null,
+            "comments": null
+        },
+        {
+            "criteria": "Availability Across Devices",
+            "descriptors": [
+                "Device coverage: Can the wallet be downloaded and used across multiple platforms (iOS, Android, desktop, browser extension)?",
+                "Ease of access: How easy is it to switch between devices and access the wallet across platforms?"
+            ],
+            "weight": 0.1,
+            "score": null,
+            "comments": null
+        }
+    ]
+}
